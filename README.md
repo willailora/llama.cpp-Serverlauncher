@@ -1,1 +1,1 @@
-# llama.cpp-Severlauncher
+# llama.cpp-Serverlauncher
