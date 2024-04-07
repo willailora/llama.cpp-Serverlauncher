@@ -55,7 +55,7 @@ GPU Layers (-ngl) is the number of layers to allocate to the GPU. If the model f
 
 Pressing Launch Server will start the server and open a page like the one in the following image in the default browser (it will not be displayed until the server is started, so it will take some time).
 
-![スクリーンショット 2024-04-06 124526](https://github.com/willailora/llama.cpp-Serverlauncher/assets/166263028/75fb0306-b650-4918-a604-82067cce0d27)
+![スクリーンショット 2024-04-06 130358](https://github.com/willailora/llama.cpp-Serverlauncher/assets/166263028/8ff2f7d3-2679-4c25-8fb7-c1596b11931c)
 
 Once started, a file named llama_launcher_config.json is generated in the same folder where py is located, and the selected items are saved and automatically applied the next time it is started.
 
